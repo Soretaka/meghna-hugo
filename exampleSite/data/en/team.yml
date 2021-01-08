@@ -36,7 +36,7 @@ team:
     image_webp: "/images/ezgif-com-gif-maker.webp"
     image: "/images/arvin_044.jpg"
     designation: Web Developer
-    content: lorem ipsum
+    content: hayolo siapa
     social:
     - icon: ti-facebook
       link: "#"
