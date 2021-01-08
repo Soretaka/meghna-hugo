@@ -42,8 +42,8 @@ team:
   - name: arvin
     image_webp: "/images/ezgif-com-gif-maker.webp"
     image: "/images/arvin_044.jpg"
-    designation: SEO Specialist
-    content: ''
+    designation: Web Developer
+    content: lorem ipsum
     social:
     - icon: ti-facebook
       link: "#"
