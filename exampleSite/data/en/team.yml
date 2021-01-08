@@ -40,7 +40,7 @@ team:
     - icon: ti-dribbble
       link: "#"
   - name: arvin
-    image_webp: images/team/team-3.webp
+    image_webp: "/images/ezgif-com-gif-maker.webp"
     image: "/images/arvin_044.jpg"
     designation: WEEEE
     content: ''
